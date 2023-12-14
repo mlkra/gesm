@@ -1,0 +1,9 @@
+{
+  "name": "GESM",
+  "description": "Gnome Extension System Monitor",
+  "uuid": "gesm@mlkra.gmail.pl",
+  "shell-version": [
+    "45"
+  ],
+  "url": "https://github.com/mlkra/gesm"
+}
